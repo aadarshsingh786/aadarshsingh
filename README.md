@@ -108,31 +108,6 @@
 
 ---
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/aadarshsingh786/shivora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshsingh786&repo=shivora&theme=radical" />
-  </a>
-  <a href="https://github.com/aadarshsingh786/ad-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshsingh786&repo=ad-management-system&theme=radical" />
-  </a>
-</p>
-
----
-
-### ✍️ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
 <p align="center">
   ⭐️ From <b>Aadarsh Singh</b> | Last updated: May 2026
 </p>
